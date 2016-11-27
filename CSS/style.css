@@ -10,7 +10,8 @@
 }
 
 .jumbotron{
-  background-image: url('../IMG/1.jpg');
+background: rgba(0,0,0,0.6);
+  opacity: 1;
   background-size: cover;
   color: #fff;
 }
@@ -28,9 +29,15 @@
   background: #03a9f4;
 }
 
+.orange-background{
+  background: #e67e22;
+}
+
+
+
 body {
         background-color: orange;
-    background-image: url("../IMG/Cloud.jpg");
+    background-image: url("../img/cloud.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -39,7 +46,7 @@ body {
 
 
 
-/*
+
 
 
 .navigation {
@@ -93,4 +100,6 @@ h1{
 
 
 
-*/
+.black-background{
+  background-color: black;
+}
