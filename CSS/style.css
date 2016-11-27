@@ -1,0 +1,95 @@
+/*vorlage */
+
+.jumbotron h1{
+  color: white !important;
+}
+
+.btn-danger{
+  background: #e67e22;
+  border-color: #e67e22;
+}
+
+.jumbotron{
+  background-image: url('../IMG/1.jpg');
+  background-size: cover;
+  color: #fff;
+}
+
+.img-center{
+  width: 50%;
+  margin: 0 auto;
+  /* margin-top: 0;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto; */
+}
+
+.purple-row{
+  background: #03a9f4;
+}
+
+body {
+        background-color: orange;
+    background-image: url("../IMG/Cloud.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+
+/*
+
+
+.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color red;
+}
+
+h1{
+	color: green;
+	font-size: 48px;
+	text-align: center;
+}
+
+.first {
+    margin-left: 100px;
+    border-top: 2px solid black;
+    font-family: fantasy;
+} 
+
+.second {
+	color: red;
+}
+
+.bordered {
+	border: 5px solid white;
+	padding: 10px;
+	display: inline-block;
+	text-align: left;
+}
+
+.centered {
+	text-align: center;
+}
+
+.separator {
+	 background-color: black;
+	 width: 2000px;
+	 margin-left: 0;
+	 margin-right: 0;
+	 height: 10px;
+
+}
+
+.container {
+	width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+*/
